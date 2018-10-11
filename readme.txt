@@ -8,7 +8,3 @@ zzgsjxy
 zgz
 dx
 dev
-three
-four
-five
-six
